@@ -1,0 +1,9 @@
+{
+	"description": "just following a tutorial, nothing special",
+	"name": "gnomeExtensionButton",
+	"shell-version": ["3.36.2"],
+	"url" : "https://github.com/StephenRansom/GnomeExtensionTutorial",
+	"uuid": "gnomeExtensionButton",
+	"version": 1
+
+}
