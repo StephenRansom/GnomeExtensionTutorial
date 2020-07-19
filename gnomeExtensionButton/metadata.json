@@ -1,9 +1,8 @@
 {
 	"description": "just following a tutorial, nothing special",
-	"name": "gnomeExtensionButton",
-	"shell-version": ["3.36.2"],
+	"name": "Gnome Extension Button",
+	"shell-version": ["3.36.3"],
 	"url" : "https://github.com/StephenRansom/GnomeExtensionTutorial",
-	"uuid": "gnomeExtensionButton",
+	"uuid": "gnome-extension-button@design.scratchpad",
 	"version": 1
-
 }
